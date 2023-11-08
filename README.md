@@ -1,7 +1,7 @@
 <h1 align="center">Zoxer </h1>
 
-# ZipBomb
-Crack zip files password.
+# Zoxer
+MULTI HACKING TOOL✅
 ![](zk.png)
 
 # Tested on
